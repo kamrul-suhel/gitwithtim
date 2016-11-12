@@ -8,4 +8,6 @@
 		'job' => 'web developer'
 	]	
 
+	echo $user['name'];
+
 ?>
